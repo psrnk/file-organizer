@@ -24,7 +24,7 @@ This Java application monitors your Downloads folder in real time and automatica
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/AutomatedFileOrganizer.git
+   git clone https://github.com/psrnk/file-organizer.git
 
 2. **Navigate to Source Directory and Compile:**
    ```bash
